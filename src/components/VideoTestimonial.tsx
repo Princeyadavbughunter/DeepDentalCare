@@ -10,26 +10,21 @@ export default function VideoTestimonial() {
         </div>
 
         <div className="bg-white border rounded-lg p-4 md:p-6 shadow-sm hover:shadow-md transition-all duration-300">
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 justify-items-center">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 justify-items-center">
             <video
               src="/images/WhatsApp Video 2025-12-26 at 3.05.24 PM.mp4"
               controls
-              className="w-full h-64 object-cover rounded-lg shadow-md"
+              className="w-full h-auto rounded-lg shadow-md"
             />
             <video
               src="/images/WhatsApp Video 2025-12-26 at 3.05.27 PM.mp4"
               controls
-              className="w-full h-64 object-cover rounded-lg shadow-md"
+              className="w-full h-auto rounded-lg shadow-md"
             />
             <video
               src="/images/WhatsApp Video 2025-12-26 at 3.05.40 PM.mp4"
               controls
-              className="w-full h-64 object-cover rounded-lg shadow-md"
-            />
-            <video
-              src="/images/WhatsApp Video 2025-12-26 at 3.05.50 PM.mp4"
-              controls
-              className="w-full h-64 object-cover rounded-lg shadow-md"
+              className="w-full h-auto rounded-lg shadow-md"
             />
           </div>
         </div>
