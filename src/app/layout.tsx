@@ -9,7 +9,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Deep Dental Care & Physiotherapy Centre | Best Dentist in Malviya Nagar, Jaipur",
-  description: "Dr. Kuldeep Singh - Certified Implantologist with 15+ years experience. Advanced dental implants, conscious sedation, 3D scanners in Malviya Nagar, Jaipur. Book appointment: +91 7719778864",
+  description: "Dr. Kuldeep Singh - Certified Implantologist with 15+ years experience. Advanced dental implants, conscious sedation, 3D scanners in Malviya Nagar, Jaipur. Book appointment: +91 9814778864",
   keywords: "dentist Malviya Nagar, dental clinic Jaipur, Dr. Kuldeep Singh, dental implants, Deep Dental Care, conscious sedation, 3D scanners, best dentist delhi",
   authors: [{ name: "Dr. Kuldeep Singh" }],
   creator: "Deep Dental Care & Physiotherapy Centre",

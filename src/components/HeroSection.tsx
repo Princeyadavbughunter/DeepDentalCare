@@ -55,7 +55,7 @@ export default function HeroSection({ onBookAppointment }: HeroSectionProps) {
           📞 Book Consultation
         </button>
         <a
-          href="tel:+917719778864"
+          href="tel:+919814778864"
           className="bg-brandBlue text-white py-4 px-8 rounded-lg font-bold text-lg text-center hover:opacity-90 transition-colors md:min-w-[240px]"
         >
           CALL NOW ☏
